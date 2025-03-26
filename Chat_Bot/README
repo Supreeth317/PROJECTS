@@ -1,0 +1,28 @@
+# 🤖 Rule-Based Chatbot
+
+A simple **rule-based chatbot** built using **Flask, HTML, CSS, and JavaScript**. The chatbot responds based on predefined rules using regular expressions.
+
+---
+
+## 🚀 Features
+✅ Rule-based responses  
+✅ Interactive UI with real-time chat  
+✅ Simple and lightweight  
+✅ Easy to set up  
+
+---
+
+## 📂 Project Structure
+/chatbot_project/ │── app.py # Main Flask application
+│── /templates/ # HTML files
+│ ├── index.html # Frontend UI
+│── /static/ # CSS & JS files
+│ ├── styles.css # Styling
+│ ├── script.js # Frontend script
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
+
+---
+
+##Run the Flask App
+python app.py
